@@ -1,0 +1,45 @@
+<libraries>
+  <library
+      name="/Users/ariguzzi/Desktop/School/CU Boulder/CTD/VRInteractionProject/VRInteraction/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release"
+      jars="/Users/ariguzzi/Desktop/School/CU Boulder/CTD/VRInteractionProject/VRInteraction/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/df9b271a32c5a6f8abd57680031b8fd6/transformed/out/jars/classes.jar:/Users/ariguzzi/Desktop/School/CU Boulder/CTD/VRInteractionProject/VRInteraction/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/df9b271a32c5a6f8abd57680031b8fd6/transformed/out/jars/libs/R.jar:/Users/ariguzzi/Desktop/School/CU Boulder/CTD/VRInteractionProject/VRInteraction/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/df9b271a32c5a6f8abd57680031b8fd6/transformed/out/jars/libs/unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="/Users/ariguzzi/Desktop/School/CU Boulder/CTD/VRInteractionProject/VRInteraction/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/df9b271a32c5a6f8abd57680031b8fd6/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:/Users/ariguzzi/Desktop/School/CU Boulder/CTD/VRInteractionProject/VRInteraction/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar"
+      jars="/Users/ariguzzi/Desktop/School/CU Boulder/CTD/VRInteractionProject/VRInteraction/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar"
+      resolved="__local_aars__:/Users/ariguzzi/Desktop/School/CU Boulder/CTD/VRInteractionProject/VRInteraction/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified"/>
+  <library
+      name=":OVRPlugin:@aar"
+      jars="/Users/ariguzzi/.gradle/caches/transforms-3/e1d14f80a71d3bacb3f249a726f7e39f/transformed/jetified-OVRPlugin/jars/classes.jar"
+      resolved=":OVRPlugin:"
+      folder="/Users/ariguzzi/.gradle/caches/transforms-3/e1d14f80a71d3bacb3f249a726f7e39f/transformed/jetified-OVRPlugin"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="/Users/ariguzzi/Desktop/School/CU Boulder/CTD/VRInteractionProject/VRInteraction/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="/Users/ariguzzi/Desktop/School/CU Boulder/CTD/VRInteractionProject/VRInteraction/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/build/.transforms/84916005086f384538b28089451e955a/transformed/out/jars/classes.jar:/Users/ariguzzi/Desktop/School/CU Boulder/CTD/VRInteractionProject/VRInteraction/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/build/.transforms/84916005086f384538b28089451e955a/transformed/out/jars/libs/R.jar"
+      resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
+      folder="/Users/ariguzzi/Desktop/School/CU Boulder/CTD/VRInteractionProject/VRInteraction/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/xrmanifest.androidlib/build/.transforms/84916005086f384538b28089451e955a/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>

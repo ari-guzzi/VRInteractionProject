@@ -1,0 +1,4 @@
+#Thu Oct 24 13:37:02 MDT 2024
+base.0=/Users/ariguzzi/Desktop/School/CU Boulder/CTD/VRInteractionProject/VRInteraction/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
