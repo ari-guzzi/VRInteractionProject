@@ -1,4 +1,4 @@
-# VRInteractionProject
+# VR Interaction Project
 ## Proposal
 It is an interactive puzzle solved by changing rotating mirrors to make a light shine on specific spots.
 - Ari Guzzi
